@@ -1,1 +1,1 @@
-HI I am megha raghav# gitfun
+Program used to insert collected data in database (grocer.sql)
